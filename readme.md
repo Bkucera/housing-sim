@@ -16,16 +16,16 @@ then reload your bashrc:
 then activate the LTS version of nodejs:
 ```
 nvm install --lts
-...
-...
+```
+```
 nvm alias default node
 ```
 
 finally, install my dependencies and run the simulation:  
 ```
 npm install
-...
-...
+```
+```
 npm start
 ```
 **Note:** Don't worry, none of the dependencies actually affect the running of the code, they just enable the compiling of TypeScript `.ts` files to run with `Nodejs`
