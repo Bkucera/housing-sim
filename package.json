@@ -4,7 +4,7 @@
   "description": "clone this repo using git: ``` git clone https://github.com/Bkucera/housing-sim.git && cd housing-sim ```",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node airport.ts",
+    "start": "ts-node house.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
