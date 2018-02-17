@@ -1,0 +1,22 @@
+{
+  "name": "proj1-code",
+  "version": "1.0.0",
+  "description": "clone this repo using git: ``` git clone https://github.com/Bkucera/housing-sim.git && cd housing-sim ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node airport.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bkucera/housing-sim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bkucera/housing-sim/issues"
+  },
+  "homepage": "https://github.com/Bkucera/housing-sim#readme",
+  "devDependencies": {}
+}
