@@ -22,10 +22,11 @@ nvm install --lts
 nvm alias default node
 ```
 
-finally, install my dependencies and run the simulation:  
+finally, install my dependencies:
 ```
 npm install
 ```
+and run the simulation:
 ```
 npm start
 ```
