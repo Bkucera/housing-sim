@@ -1,3 +1,4 @@
+# Housing-sim :house:
 clone this repo using git:
 ```
 git clone https://github.com/Bkucera/housing-sim.git && cd housing-sim
