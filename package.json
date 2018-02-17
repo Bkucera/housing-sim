@@ -18,5 +18,8 @@
     "url": "https://github.com/Bkucera/housing-sim/issues"
   },
   "homepage": "https://github.com/Bkucera/housing-sim#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "ts-node": "^4.1.0",
+    "typescript": "^2.7.2"
+  }
 }
