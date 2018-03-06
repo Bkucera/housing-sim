@@ -1,0 +1,460 @@
+
+> proj1-code@1.0.0 start /home/owner/Documents/GT/CX4230/proj1-code
+> ts-node House-Sim.ts
+
+Initial event list: 
+Event List: 
+0
+0
+10000
+/n
+Buyer  P0 has entered the market!
+Seller P1 has entered the market!
+Seller P2 has entered the market!
+Seller P3 has entered the market!
+Seller P4 has entered the market!
+Seller P5 has entered the market!
+Seller P6 has entered the market!
+Buyer  P7 has entered the market!
+P7 visited property
+P7 visited property
+P7 visited property
+P7 visited property
+Seller P8 has entered the market!
+Seller P9 has entered the market!
+Seller P10 has entered the market!
+Seller P11 has entered the market!
+Seller P12 has entered the market!
+Buyer  P13 has entered the market!
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P13 visited property
+P7 bought from P6 for $10422.891253982307
+P0 visited property
+P0 visited property
+P0 visited property
+P0 visited property
+P0 visited property
+P0 visited property
+P0 visited property
+Seller P14 has entered the market!
+Seller P15 has entered the market!
+Seller P16 has entered the market!
+Seller P17 has entered the market!
+Seller P18 has entered the market!
+P0 bought from P12 for $10089.28844048056
+P7 visited but did not buy: overprice $19552.22
+P7 visited but did not buy: overprice $19758.22
+P7 visited but did not buy: overprice $19646.98
+Buyer  P19 has entered the market!
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P19 visited property
+P13 bought from P10 for $9645.995601917924
+Seller P20 has entered the market!
+Seller P21 has entered the market!
+Seller P22 has entered the market!
+Seller P23 has entered the market!
+Seller P24 has entered the market!
+P13 visited but did not buy: overprice $9581.03308644745
+P13 visited but did not buy: overprice $13810.797879831927
+P13 visited but did not buy: overprice $10299.161632794978
+P13 visited but did not buy: overprice $18336.82
+P13 visited but did not buy: overprice $18685.989999999998
+P13 visited but did not buy: overprice $10000
+P13 visited but did not buy: overprice $19451.28
+P13 visited but did not buy: overprice $20123.870000000003
+P13 visited but did not buy: overprice $-748.1900000000005
+P13 visited but did not buy: overprice $-9016
+Buyer  P25 has entered the market!
+P25 visited property
+P25 visited property
+P25 visited property
+P25 visited property
+P25 visited property
+P25 visited property
+P25 visited property
+P19 bought from P17 for $9312.794223055991
+P0 visited but did not buy: overprice $19552.22
+P0 visited but did not buy: overprice $19758.22
+P0 visited but did not buy: overprice $19646.98
+P0 visited but did not buy: overprice $19451.28
+P0 visited but did not buy: overprice $20123.870000000003
+P0 visited but did not buy: overprice $19107.260000000002
+Seller P26 has entered the market!
+Seller P27 has entered the market!
+Seller P28 has entered the market!
+Seller P29 has entered the market!
+Seller P30 has entered the market!
+P19 visited but did not buy: overprice $13128.61033057881
+P19 visited but did not buy: overprice $12275.610259844381
+P19 visited but did not buy: overprice $14695.985690671798
+P19 visited but did not buy: overprice $10000
+P19 visited but did not buy: overprice $13403.095729075081
+P19 visited but did not buy: overprice $18612.86
+P19 visited but did not buy: overprice $18994.989999999998
+P19 visited but did not buy: overprice $19237.04
+Buyer  P31 has entered the market!
+P31 visited property
+P31 visited property
+P31 visited property
+P31 visited property
+P31 visited property
+P31 visited property
+P25 bought from P23 for $9076.990563091358
+Seller P32 has entered the market!
+Seller P33 has entered the market!
+Seller P34 has entered the market!
+Seller P35 has entered the market!
+Seller P36 has entered the market!
+P25 visited but did not buy: overprice $15849.201489497678
+P25 visited but did not buy: overprice $9631.419986067463
+P25 visited but did not buy: overprice $19891.09
+P25 visited but did not buy: overprice $18927.010000000002
+P25 visited but did not buy: overprice $20105.33
+P25 visited but did not buy: overprice $20092.97
+Buyer  P37 has entered the market!
+P37 visited property
+P37 visited property
+P37 visited property
+P37 visited property
+Seller P38 has entered the market!
+Seller P39 has entered the market!
+Seller P40 has entered the market!
+Seller P41 has entered the market!
+Seller P42 has entered the market!
+P31 visited but did not buy: overprice $-2628.1937548594124
+P31 visited but did not buy: overprice $-8107
+P31 visited but did not buy: overprice $497.6200000000008
+P31 visited but did not buy: overprice $408.0100000000002
+P31 visited but did not buy: overprice $677.8700000000008
+P31 visited but did not buy: overprice $474.9599999999991
+Buyer  P43 has entered the market!
+P43 visited property
+P43 visited property
+P43 visited property
+P43 visited property
+P43 visited property
+P43 visited property
+P37 bought from P35 for $10331.225911564881
+Seller P44 has entered the market!
+Seller P45 has entered the market!
+Seller P46 has entered the market!
+Seller P47 has entered the market!
+P37 visited but did not buy: overprice $19591.36
+P37 visited but did not buy: overprice $19895.21
+P37 visited but did not buy: overprice $19573.85
+Buyer  P48 has entered the market!
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P48 visited property
+P43 bought from P36 for $8758.7752125786
+P43 visited but did not buy: overprice $17807.882458264685
+P43 visited but did not buy: overprice $18670.299556407444
+P43 visited but did not buy: overprice $18383.17
+P43 visited but did not buy: overprice $18550.03
+P43 visited but did not buy: overprice $760.3799999999992
+Buyer  P49 has entered the market!
+P49 visited property
+P49 visited property
+P49 visited property
+P49 visited property
+P48 bought from P47 for $7879.9406174985415
+P48 visited but did not buy: overprice $16051.805956185792
+P48 visited but did not buy: overprice $9981.735665883412
+P48 visited but did not buy: overprice $14650.955818264109
+P48 visited but did not buy: overprice $10000
+P48 visited but did not buy: overprice $14617.326659908858
+P48 visited but did not buy: overprice $19577.97
+P48 visited but did not buy: overprice $19796.33
+P48 visited but did not buy: overprice $19738.65
+P48 visited but did not buy: overprice $19757.190000000002
+P48 visited but did not buy: overprice $18692.17
+P48 visited but did not buy: overprice $18694.23
+P48 visited but did not buy: overprice $18749.85
+Buyer  P50 has entered the market!
+P49 visited but did not buy: overprice $-8408.927744393455
+P49 visited but did not buy: overprice $-3954.2311843135667
+P49 visited but did not buy: overprice $-6269.228597817324
+P49 visited but did not buy: overprice $-5065.427659461271
+Buyer  P51 has entered the market!
+Buyer  P52 has entered the market!
+Buyer  P53 has entered the market!
+Buyer  P54 has entered the market!
+Buyer  P55 has entered the market!
+P55 visited property
+Buyer  P56 has entered the market!
+P56 visited property
+P55 visited but did not buy: overprice $-638.6110764471505
+Buyer  P57 has entered the market!
+P56 visited but did not buy: overprice $-4472.430675589641
+Buyer  P58 has entered the market!
+Buyer  P59 has entered the market!
+Buyer  P60 has entered the market!
+Buyer  P61 has entered the market!
+Buyer  P62 has entered the market!
+Seller P7 has entered the market!
+Buyer  P63 has entered the market!
+P51 visited property
+Seller P13 has entered the market!
+Seller P0 has entered the market!
+Buyer  P64 has entered the market!
+P64 visited property
+P64 visited property
+P52 visited property
+P52 visited property
+P52 visited property
+P50 visited property
+P50 visited property
+P50 visited property
+P54 visited property
+P54 visited property
+P62 visited property
+P62 visited property
+Seller P19 has entered the market!
+P54 bought from P13 for $10125.090117898606
+P50 bought from P0 for $10700.699071598216
+Buyer  P65 has entered the market!
+P65 visited property
+P51 visited but did not buy: overprice $1047.5779916017764
+P61 visited property
+P57 visited property
+P57 visited property
+P53 visited property
+P53 visited property
+P59 visited property
+P59 visited property
+P63 visited property
+P63 visited property
+Seller P25 has entered the market!
+P63 bought from P7 for $9430.488774011203
+P59 bought from P19 for $10122.376087878949
+P64 visited but did not buy: overprice $-9252
+P64 visited but did not buy: overprice $-9252
+Buyer  P66 has entered the market!
+P52 visited but did not buy: overprice $1121.5779916017764
+P52 visited but did not buy: overprice $-9614
+P52 visited but did not buy: overprice $-9614
+P50 visited but did not buy: overprice $20735.57799160178
+P50 visited but did not buy: overprice $10000
+P54 visited but did not buy: overprice $1265.967093694977
+P62 visited but did not buy: overprice $601.3754699754627
+P62 visited but did not buy: overprice $1057.967093694977
+P58 visited property
+P65 visited but did not buy: overprice $-8977
+Buyer  P67 has entered the market!
+P67 visited property
+P61 visited but did not buy: overprice $-8119
+P57 visited but did not buy: overprice $-8921
+P57 visited but did not buy: overprice $-8921
+P53 visited but did not buy: overprice $-9207
+P53 visited but did not buy: overprice $-9207
+P59 visited but did not buy: overprice $10000
+P63 visited but did not buy: overprice $979.1780497476702
+Seller P37 has entered the market!
+Buyer  P68 has entered the market!
+P68 visited property
+P67 bought from P25 for $8902.837798054145
+P58 visited but did not buy: overprice $847.3002799840997
+Seller P43 has entered the market!
+Buyer  P69 has entered the market!
+P69 visited property
+Seller P48 has entered the market!
+P68 visited but did not buy: overprice $-9177
+Buyer  P70 has entered the market!
+P70 visited property
+P70 visited property
+P66 visited property
+P66 visited property
+P60 visited property
+P60 visited property
+P60 bought from P48 for $8590.202042423207
+P69 visited but did not buy: overprice $770.162688911827
+Buyer  P71 has entered the market!
+P71 visited property
+P70 bought from P43 for $9820.062375853311
+P70 visited but did not buy: overprice $-8860
+Buyer  P72 has entered the market!
+P66 visited but did not buy: overprice $962.5384689559578
+P66 visited but did not buy: overprice $-8059
+P60 visited but did not buy: overprice $19021.538468955958
+P71 visited but did not buy: overprice $-8191
+Buyer  P73 has entered the market!
+Buyer  P74 has entered the market!
+Buyer  P75 has entered the market!
+Buyer  P76 has entered the market!
+Buyer  P77 has entered the market!
+Buyer  P78 has entered the market!
+Buyer  P79 has entered the market!
+Seller P50 has entered the market!
+Seller P54 has entered the market!
+P76 visited property
+Seller P59 has entered the market!
+Seller P63 has entered the market!
+P79 visited property
+P75 visited property
+P75 visited property
+P75 visited property
+P73 visited property
+P73 visited property
+P73 visited property
+P73 visited property
+P77 visited property
+P77 visited property
+P77 visited property
+P77 visited property
+P77 bought from P63 for $9526.103952913778
+P76 visited but did not buy: overprice $995.8428214355645
+Seller P67 has entered the market!
+P79 visited but did not buy: overprice $-8966
+P75 visited but did not buy: overprice $976.8428214355645
+P75 visited but did not buy: overprice $974.0473705153181
+P75 visited but did not buy: overprice $-9452
+P73 visited but did not buy: overprice $1077.7200437461615
+P73 visited but did not buy: overprice $484.8428214355645
+P73 visited but did not buy: overprice $482.0473705153181
+P73 visited but did not buy: overprice $-9944
+P77 visited but did not buy: overprice $21021.72004374616
+P77 visited but did not buy: overprice $20428.842821435566
+P77 visited but did not buy: overprice $20426.04737051532
+P78 visited property
+P74 visited property
+P72 visited property
+P72 bought from P67 for $9704.216144190315
+Seller P70 has entered the market!
+Seller P60 has entered the market!
+P78 visited but did not buy: overprice $-8396
+P74 visited but did not buy: overprice $-9032
+Seller P77 has entered the market!
+Seller P72 has entered the market!
+Buyer  P6 has entered the market!
+P6 visited property
+P6 visited property
+P6 visited property
+P6 bought from P72 for $9580.864587299558
+Buyer  P10 has entered the market!
+P10 visited property
+P10 visited property
+Buyer  P12 has entered the market!
+P12 visited property
+P12 visited property
+P12 bought from P77 for $9232.361594310705
+P10 bought from P70 for $10334.080875858632
+P6 visited but did not buy: overprice $20114.66424712891
+P6 visited but did not buy: overprice $19811.88707150119
+Buyer  P17 has entered the market!
+P17 visited property
+P17 bought from P60 for $8800.272060274527
+P10 visited but did not buy: overprice $-9645.995601917924
+P12 visited but did not buy: overprice $20114.66424712891
+Buyer  P23 has entered the market!
+Buyer  P35 has entered the market!
+Buyer  P36 has entered the market!
+Buyer  P47 has entered the market!
+Seller P6 has entered the market!
+P36 visited property
+Seller P10 has entered the market!
+Seller P12 has entered the market!
+P35 visited property
+P35 visited property
+P23 visited property
+P23 visited property
+Seller P17 has entered the market!
+Buyer  P0 has entered the market!
+P0 visited property
+Buyer  P13 has entered the market!
+P13 visited property
+P13 visited property
+P13 visited property
+P23 bought from P12 for $9807.87784138202
+P36 visited but did not buy: overprice $1109.5153123399468
+Buyer  P19 has entered the market!
+P19 visited property
+Buyer  P7 has entered the market!
+P7 visited property
+P7 visited property
+P7 bought from P17 for $8868.883242727708
+P35 visited but did not buy: overprice $-462.93538664633525
+P35 visited but did not buy: overprice $312.87739056950886
+P23 visited but did not buy: overprice $19868.290524918546
+P0 visited but did not buy: overprice $-56.59576946382549
+P13 visited but did not buy: overprice $-256.79959298005997
+P13 visited but did not buy: overprice $519.0131842357841
+P13 visited but did not buy: overprice $-615.7576757585794
+P19 visited but did not buy: overprice $521.7272142554411
+P7 visited but did not buy: overprice $20644.10330213439
+Buyer  P25 has entered the market!
+Buyer  P43 has entered the market!
+Buyer  P48 has entered the market!
+Seller P23 has entered the market!
+P43 visited property
+Seller P7 has entered the market!
+P43 bought from P23 for $10283.712266884828
+P25 visited property
+Buyer  P63 has entered the market!
+P63 visited property
+P25 bought from P7 for $9893.11843067015
+P63 visited but did not buy: overprice $-391.1542129042391
+Buyer  P67 has entered the market!
+Seller P43 has entered the market!
+P67 visited property
+Seller P25 has entered the market!
+P67 visited but did not buy: overprice $888.0074907010567
+Buyer  P72 has entered the market!
+P72 visited property
+Buyer  P70 has entered the market!
+P70 visited property
+Buyer  P77 has entered the market!
+P77 visited property
+P70 bought from P25 for $9872.52091103905
+P72 visited but did not buy: overprice $609.0473962906963
+Buyer  P60 has entered the market!
+P77 visited but did not buy: overprice $957.5503892795496
+Seller P70 has entered the market!
+Buyer  P12 has entered the market!
+P12 visited property
+P12 bought from P70 for $10267.83457905994
+Buyer  P17 has entered the market!
+Seller P12 has entered the market!
+Buyer  P23 has entered the market!
+P23 visited property
+Buyer  P7 has entered the market!
+P7 visited property
+P23 visited but did not buy: overprice $292.15734954690924
+P7 visited but did not buy: overprice $682.7511857615864
+Buyer  P25 has entered the market!
+Buyer  P70 has entered the market!
+{
+   "totalTimeBuy": 775,
+   "totalTimeSell": 3771,
+   "failedPurchases": 126,
+   "successfulPurchases": 27,
+   "nonBuyers": 40,
+   "nonSellers": 40,
+   "timeNonBuy": 9208.125,
+   "timeNonSell": 9818.725
+}

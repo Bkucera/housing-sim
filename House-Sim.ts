@@ -11,8 +11,9 @@ let outs = {
   totalTimeBuy: 0,
   totalTimeSell: 0,
   failedPurchases: 0,
-  successfulPurchases: 0
+  successfulPurchases: 0,
 }
+let soldProperties = []
 
 var genName = (() => {
   let count = 0
@@ -120,8 +121,8 @@ class Buyer {
         seller.postingPrice +
         params.commissionRate * seller.postingPrice -
         this.budgetPrice
-      let sellerLeeway = seller.bias * 1000
-      let buyerLeeway = this.bias * 1000
+      let sellerLeeway = seller.bias * seller.postingPrice
+      let buyerLeeway = this.bias * this.budgetPrice
       if (diff < 0) {
         //if buyer gets a good deal
         if (Math.abs(diff) > sellerLeeway) {
@@ -181,6 +182,7 @@ class Seller {
     engine.schedule(engine.currentTime() + 1000, () =>
       buyerQueue.add(new Buyer(undefined, price, this.name))
     )
+    soldProperties.push(price)
   }
 }
 
@@ -199,11 +201,16 @@ engine.schedule(params.runtime, () => {
       .map(non => engine.currentTime() - non.initTime)
       .reduce((a, b) => a + b, 0) / (nonSellers.length || 1)
 
+  let averageSalePrice = soldProperties.reduce((a,b)=>a+b,0)/(soldProperties.length || 1)
+
+
   Object.assign(outs, {
+    soldProperties,
     nonBuyers: nonBuyers.length,
     nonSellers: nonSellers.length,
     timeNonBuy,
-    timeNonSell
+    timeNonSell,
+    averageSalePrice,
   })
 
   log(JSON.stringify(outs, null, "   "))
@@ -218,7 +225,7 @@ function genHouse(): number[] {
 }
 
 function genBias(): number {
-  return Math.random()
+  return params.baseBiases
 }
 function genPostingPrice(): number {
   return Math.round((Math.random() / 5 + 0.8) * 10000)

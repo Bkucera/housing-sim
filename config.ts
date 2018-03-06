@@ -2,10 +2,11 @@ const params = {
   initHouseValue: () => {},
   production: false,
   commissionRate: 0.03,
+  baseBiases: 0.0,
   travelCost: 100,
-  FixedSaleCost: 500,
+  FixedSaleCost: 100,
   numBuyers: 100,
-  numSellers: 5,
+  numSellers: 20,
   runtime: 10000,
   filterLogs:'',
 }
