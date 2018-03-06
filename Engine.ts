@@ -61,4 +61,7 @@ export default class Engine {
       e = null;
     }
   }
+  end() {
+    this.rootEvent.next = null
+  }
 }

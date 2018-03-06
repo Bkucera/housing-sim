@@ -36,5 +36,6 @@ to run the simulation again, just use `npm start`
 
 If for some reason these steps are not working for you, just run my setup script by running:
 ```shell
+chmod +x quick-setup.sh
 bash ./quick-setup.sh
 ```
